@@ -69,7 +69,7 @@ iOS开发负责人:
 >>>
 - 进行技术分享，分享的Keynote：[组件化](https://pan.baidu.com/s/1CQkdp_2gI73ctV_LhRLeyQ)，[Redux架构理念](https://pan.baidu.com/s/1hgFnRgYM-3pEKAjJOfXtfA)
 
-- 2013.08 ~ 2016.06：浙江中控研究院有限公司
+**2013.08 ~ 2016.06：浙江中控研究院有限公司**
 
 嵌入式开发工程师：负责防火墙工控机的硬件设计与软件开发；
 
